@@ -10,6 +10,7 @@
     - [Utilized Maven and NPM for build automation and dependency management](#utilized-maven-and-npm-for-build-automation-and-dependency-management)
     - [Leveraged Selenium Webdriver with TestNG to build regression tests.](#leveraged-selenium-webdriver-with-testng-to-build-regression-tests)
     - [Employed Hibernate for database connection.](#employed-hibernate-for-database-connection)
+    - [Constructed a single page application](#constructed-a-single-page-application)
 - [Notes](#notes)
 
 <!-- /TOC -->
@@ -56,8 +57,10 @@
   ```
   ### Employed Hibernate for database connection.
 
-
-
+- Responsibility 6
+  ```js
+  ```
+  ### Constructed a single page application
 
 # Notes
 
