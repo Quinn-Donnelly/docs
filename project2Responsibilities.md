@@ -4,10 +4,10 @@
 - [Contents](#contents)
 - [Todo](#todo)
 - [Responsibilities](#responsibilities)
-    - [Built a testing framework using ...](#built-a-testing-framework-using)
-    - [Tested a Application using a black box method](#tested-a-application-using-a-black-box-method)
-    - [Built a development pipeline to continuously integrate changes and continuously deploy the application.](#built-a-development-pipeline-to-continuously-integrate-changes-and-continuously-deploy-the-application)
-    - [Utilized Maven and NPM for build automation and dependency management](#utilized-maven-and-npm-for-build-automation-and-dependency-management)
+    - [Built a reusable testing framework allowing users to execute tests remotely from a client side web application.](#built-a-reusable-testing-framework-allowing-users-to-execute-tests-remotely-from-a-client-side-web-application)
+    - [Tested a production application using an automated black box method strategy.](#tested-a-production-application-using-an-automated-black-box-method-strategy)
+    - [Constructed an automated pipeline for continuos development and deployment.](#constructed-an-automated-pipeline-for-continuos-development-and-deployment)
+    - [Utilized Maven and NPM for build automation and dependency management.](#utilized-maven-and-npm-for-build-automation-and-dependency-management)
     - [Leveraged Selenium Webdriver with TestNG to build regression tests.](#leveraged-selenium-webdriver-with-testng-to-build-regression-tests)
     - [Employed Hibernate for database connection.](#employed-hibernate-for-database-connection)
     - [Constructed a single page application](#constructed-a-single-page-application)
@@ -21,10 +21,10 @@
 # Todo
   - [x] Add more responsibilities
   - [ ] Create Feedback for each one
-    - [ ] 1
-    - [ ] 2
-    - [ ] 3
-    - [ ] 4
+    - [x] 1
+    - [x] 2
+    - [x] 3
+    - [x] 4
     - [ ] 5
     - [ ] 6
     - [ ] 7
@@ -32,10 +32,10 @@
     - [ ] 9
     - [ ] 10
   - [ ] Resolve the comments on responsibilities
-    - [ ] 1
-    - [ ] 2
-    - [ ] 3
-    - [ ] 4
+    - [x] 1
+    - [x] 2
+    - [x] 3
+    - [x] 4
     - [ ] 5
     - [ ] 6
     - [ ] 7
@@ -47,31 +47,31 @@
 # Responsibilities
 - Responsibility 1
   ```js
-  // ! Complete the statement with technology
+  // ? Ready for feedback and reorder
   ```
-  ### Built a testing framework using ...
+  ### Built a reusable testing framework allowing users to execute tests remotely from a client side web application.
 
 - Responsibility 2
   ```js
-  // ! Complete the statement with the how and why
+  // ? Ready for feedback and reorder
   ```
-  ### Tested a Application using a black box method 
+  ### Tested a production application using an automated black box method strategy.
 
 - Responsibility 3
   ```js
-  // ! this needs to be reworded
+  // ? Ready for feedback and reorder
   ```
-  ### Built a development pipeline to continuously integrate changes and continuously deploy the application.
+  ### Constructed an automated pipeline for continuos development and deployment.
 
 - Responsibility 4
   ```js
   // ? Add more to this
   ```
-  ### Utilized Maven and NPM for build automation and dependency management
+  ### Utilized Maven and NPM for build automation and dependency management.
 
 - Responsibility 5
   ```js
-  // ? Complete or add more
+  // ? Ready for feedback and reorder
   ```
   ### Leveraged Selenium Webdriver with TestNG to build regression tests.
 
