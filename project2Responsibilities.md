@@ -5,14 +5,14 @@
 - [Todo](#todo)
 - [Responsibilities](#responsibilities)
     - [Built a reusable testing framework allowing users to execute tests remotely from a client side web application.](#built-a-reusable-testing-framework-allowing-users-to-execute-tests-remotely-from-a-client-side-web-application)
-    - [Tested a production application using an automated black box method strategy.](#tested-a-production-application-using-an-automated-black-box-method-strategy)
-    - [Constructed an automated pipeline for continuos development and deployment.](#constructed-an-automated-pipeline-for-continuos-development-and-deployment)
-    - [Utilized Maven and NPM for build automation and dependency management.](#utilized-maven-and-npm-for-build-automation-and-dependency-management)
-    - [Leveraged Selenium Webdriver with TestNG to build automated regression tests.](#leveraged-selenium-webdriver-with-testng-to-build-automated-regression-tests)
-    - [Employed Hibernate for persistent data storage, caching, and flexibility.](#employed-hibernate-for-persistent-data-storage-caching-and-flexibility)
-    - [Constructed a single page application using the Angular framework.](#constructed-a-single-page-application-using-the-angular-framework)
-    - [Utilized AWS for hosting a cloud based testing solution.](#utilized-aws-for-hosting-a-cloud-based-testing-solution)
+    - [Constructed a single page application using the Angular framework to provide a testing dashboard.](#constructed-a-single-page-application-using-the-angular-framework-to-provide-a-testing-dashboard)
     - [Built an API to give programmatic access to collected testing data.](#built-an-api-to-give-programmatic-access-to-collected-testing-data)
+    - [Employed Hibernate for persistent data storage, caching, and flexibility.](#employed-hibernate-for-persistent-data-storage-caching-and-flexibility)
+    - [Tested a production application using an automated black box method strategy.](#tested-a-production-application-using-an-automated-black-box-method-strategy)
+    - [Leveraged Selenium Webdriver with TestNG to build automated regression tests.](#leveraged-selenium-webdriver-with-testng-to-build-automated-regression-tests)
+    - [Constructed an automated pipeline for continuos development and deployment.](#constructed-an-automated-pipeline-for-continuos-development-and-deployment)
+    - [Utilized AWS for hosting a cloud based testing solution.](#utilized-aws-for-hosting-a-cloud-based-testing-solution)
+    - [Utilized Maven and NPM for build automation and dependency management.](#utilized-maven-and-npm-for-build-automation-and-dependency-management)
     - [Leveraged the Agile methodology using Github for source control and Trello for task management.](#leveraged-the-agile-methodology-using-github-for-source-control-and-trello-for-task-management)
 - [Notes](#notes)
 
@@ -52,29 +52,18 @@
   ```
   ### Built a reusable testing framework allowing users to execute tests remotely from a client side web application.
 
-- Responsibility 2
+- Responsibility 7
   ```js
   // ? Ready for feedback and reorder
   ```
-  ### Tested a production application using an automated black box method strategy.
+  ### Constructed a single page application using the Angular framework to provide a testing dashboard.
 
-- Responsibility 3
+- Responsibility 9
   ```js
   // ? Ready for feedback and reorder
+  // ! eh
   ```
-  ### Constructed an automated pipeline for continuos development and deployment.
-
-- Responsibility 4
-  ```js
-  // ? Ready for feedback and reorder
-  ```
-  ### Utilized Maven and NPM for build automation and dependency management.
-
-- Responsibility 5
-  ```js
-  // ? Ready for feedback and reorder
-  ```
-  ### Leveraged Selenium Webdriver with TestNG to build automated regression tests.
+  ### Built an API to give programmatic access to collected testing data.
 
 - Responsibility 6
   ```js
@@ -83,11 +72,23 @@
   ```
   ### Employed Hibernate for persistent data storage, caching, and flexibility.
 
-- Responsibility 7
+- Responsibility 2
   ```js
   // ? Ready for feedback and reorder
   ```
-  ### Constructed a single page application using the Angular framework.
+  ### Tested a production application using an automated black box method strategy.
+
+- Responsibility 5
+  ```js
+  // ? Ready for feedback and reorder
+  ```
+  ### Leveraged Selenium Webdriver with TestNG to build automated regression tests.
+
+- Responsibility 3
+  ```js
+  // ? Ready for feedback and reorder
+  ```
+  ### Constructed an automated pipeline for continuos development and deployment.
 
 - Responsibility 8
   ```js
@@ -96,12 +97,11 @@
   ```
   ### Utilized AWS for hosting a cloud based testing solution.
 
-- Responsibility 9
+- Responsibility 4
   ```js
   // ? Ready for feedback and reorder
-  // ! eh
   ```
-  ### Built an API to give programmatic access to collected testing data.
+  ### Utilized Maven and NPM for build automation and dependency management.
 
 - Responsibility 10
   ```js
