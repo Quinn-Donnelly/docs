@@ -10,7 +10,7 @@
     - [Employed Hibernate for persistent data storage, caching, and flexibility.](#employed-hibernate-for-persistent-data-storage-caching-and-flexibility)
     - [Tested a production application using an automated black box method strategy.](#tested-a-production-application-using-an-automated-black-box-method-strategy)
     - [Leveraged Selenium Webdriver with TestNG to build automated regression tests.](#leveraged-selenium-webdriver-with-testng-to-build-automated-regression-tests)
-    - [Constructed an automated pipeline for continuos development and deployment.](#constructed-an-automated-pipeline-for-continuos-development-and-deployment)
+    - [Constructed an automated pipeline using Jenkins for continuos development and deployment.](#constructed-an-automated-pipeline-using-jenkins-for-continuos-development-and-deployment)
     - [Utilized AWS for hosting a cloud based testing solution.](#utilized-aws-for-hosting-a-cloud-based-testing-solution)
     - [Utilized Maven and NPM for build automation and dependency management.](#utilized-maven-and-npm-for-build-automation-and-dependency-management)
     - [Leveraged the Agile methodology using Github for source control and Trello for task management.](#leveraged-the-agile-methodology-using-github-for-source-control-and-trello-for-task-management)
@@ -88,7 +88,7 @@
   ```js
   // ? Ready for feedback and reorder
   ```
-  ### Constructed an automated pipeline for continuos development and deployment.
+  ### Constructed an automated pipeline using Jenkins for continuos development and deployment.
 
 - Responsibility 8
   ```js
