@@ -8,40 +8,41 @@
     - [Tested a production application using an automated black box method strategy.](#tested-a-production-application-using-an-automated-black-box-method-strategy)
     - [Constructed an automated pipeline for continuos development and deployment.](#constructed-an-automated-pipeline-for-continuos-development-and-deployment)
     - [Utilized Maven and NPM for build automation and dependency management.](#utilized-maven-and-npm-for-build-automation-and-dependency-management)
-    - [Leveraged Selenium Webdriver with TestNG to build regression tests.](#leveraged-selenium-webdriver-with-testng-to-build-regression-tests)
-    - [Employed Hibernate for database connection.](#employed-hibernate-for-database-connection)
-    - [Constructed a single page application](#constructed-a-single-page-application)
-    - [Utilized AWS for hosting a cloud based computer and database solution.](#utilized-aws-for-hosting-a-cloud-based-computer-and-database-solution)
-    - [Built a REST API for programmatic assess to data provided by the testing application.](#built-a-rest-api-for-programmatic-assess-to-data-provided-by-the-testing-application)
-    - [Used Git for source control following an Agile methodology.](#used-git-for-source-control-following-an-agile-methodology)
+    - [Leveraged Selenium Webdriver with TestNG to build automated regression tests.](#leveraged-selenium-webdriver-with-testng-to-build-automated-regression-tests)
+    - [Employed Hibernate for persistent data storage, caching, and flexibility.](#employed-hibernate-for-persistent-data-storage-caching-and-flexibility)
+    - [Constructed a single page application using the Angular framework.](#constructed-a-single-page-application-using-the-angular-framework)
+    - [Utilized AWS for hosting a cloud based testing solution.](#utilized-aws-for-hosting-a-cloud-based-testing-solution)
+    - [Built an API to give programmatic access to collected testing data.](#built-an-api-to-give-programmatic-access-to-collected-testing-data)
+    - [Leveraged the Agile methodology using Github for source control and Trello for task management.](#leveraged-the-agile-methodology-using-github-for-source-control-and-trello-for-task-management)
 - [Notes](#notes)
 
 <!-- /TOC -->
 
 # Todo
   - [x] Add more responsibilities
-  - [ ] Create Feedback for each one
+  - [x] Create Feedback for each one
     - [x] 1
     - [x] 2
     - [x] 3
     - [x] 4
-    - [ ] 5
-    - [ ] 6
-    - [ ] 7
-    - [ ] 8
-    - [ ] 9
-    - [ ] 10
-  - [ ] Resolve the comments on responsibilities
+    - [x] 5
+    - [x] 6
+    - [x] 7
+    - [x] 8
+    - [x] 9
+    - [x] 10
+  - [x] Resolve the comments on responsibilities
     - [x] 1
     - [x] 2
     - [x] 3
     - [x] 4
-    - [ ] 5
-    - [ ] 6
-    - [ ] 7
-    - [ ] 8
-    - [ ] 9
-    - [ ] 10
+    - [x] 5
+    - [x] 6
+    - [x] 7
+    - [x] 8
+    - [x] 9
+    - [x] 10
+  - [ ] Reorder
 
 
 # Responsibilities
@@ -65,7 +66,7 @@
 
 - Responsibility 4
   ```js
-  // ? Add more to this
+  // ? Ready for feedback and reorder
   ```
   ### Utilized Maven and NPM for build automation and dependency management.
 
@@ -73,40 +74,46 @@
   ```js
   // ? Ready for feedback and reorder
   ```
-  ### Leveraged Selenium Webdriver with TestNG to build regression tests.
+  ### Leveraged Selenium Webdriver with TestNG to build automated regression tests.
 
 - Responsibility 6
   ```js
-  // ! Look at hibernate docs use their buzz
+  // ? Ready for feedback and reorder
+  // ! Not a fan for this one
   ```
-  ### Employed Hibernate for database connection.
+  ### Employed Hibernate for persistent data storage, caching, and flexibility.
 
 - Responsibility 7
   ```js
-  // ! MORE POWER
+  // ? Ready for feedback and reorder
   ```
-  ### Constructed a single page application
+  ### Constructed a single page application using the Angular framework.
 
 - Responsibility 8
   ```js
-  // ! what the heck did you say in this sentence
+  // ? Ready for feedback and reorder
+  // ? Not sure how to put we used AWS into words
   ```
-  ### Utilized AWS for hosting a cloud based computer and database solution.
+  ### Utilized AWS for hosting a cloud based testing solution.
 
 - Responsibility 9
   ```js
-  // ! Yeah but lets not call it that
+  // ? Ready for feedback and reorder
+  // ! eh
   ```
-  ### Built a REST API for programmatic assess to data provided by the testing application.
+  ### Built an API to give programmatic access to collected testing data.
 
 - Responsibility 10
   ```js
-  // Reorder and maybe separate
+  // ? Ready for feedback and reorder
   ```
-  ### Used Git for source control following an Agile methodology.
+  ### Leveraged the Agile methodology using Github for source control and Trello for task management.
 
 
 # Notes
+
+**use too many "automated"**
+
 
 - frontend
 - middleware 
