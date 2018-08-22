@@ -11,13 +11,37 @@
     - [Leveraged Selenium Webdriver with TestNG to build regression tests.](#leveraged-selenium-webdriver-with-testng-to-build-regression-tests)
     - [Employed Hibernate for database connection.](#employed-hibernate-for-database-connection)
     - [Constructed a single page application](#constructed-a-single-page-application)
+    - [Utilized AWS for hosting a cloud based computer and database solution.](#utilized-aws-for-hosting-a-cloud-based-computer-and-database-solution)
+    - [Built a REST API for programmatic assess to data provided by the testing application.](#built-a-rest-api-for-programmatic-assess-to-data-provided-by-the-testing-application)
+    - [Used Git for source control following an Agile methodology.](#used-git-for-source-control-following-an-agile-methodology)
 - [Notes](#notes)
 
 <!-- /TOC -->
 
 # Todo
-  - [ ] Add more responsibilities
+  - [x] Add more responsibilities
+  - [ ] Create Feedback for each one
+    - [ ] 1
+    - [ ] 2
+    - [ ] 3
+    - [ ] 4
+    - [ ] 5
+    - [ ] 6
+    - [ ] 7
+    - [ ] 8
+    - [ ] 9
+    - [ ] 10
   - [ ] Resolve the comments on responsibilities
+    - [ ] 1
+    - [ ] 2
+    - [ ] 3
+    - [ ] 4
+    - [ ] 5
+    - [ ] 6
+    - [ ] 7
+    - [ ] 8
+    - [ ] 9
+    - [ ] 10
 
 
 # Responsibilities
@@ -57,10 +81,30 @@
   ```
   ### Employed Hibernate for database connection.
 
-- Responsibility 6
+- Responsibility 7
   ```js
+  // ! MORE POWER
   ```
   ### Constructed a single page application
+
+- Responsibility 8
+  ```js
+  // ! what the heck did you say in this sentence
+  ```
+  ### Utilized AWS for hosting a cloud based computer and database solution.
+
+- Responsibility 9
+  ```js
+  // ! Yeah but lets not call it that
+  ```
+  ### Built a REST API for programmatic assess to data provided by the testing application.
+
+- Responsibility 10
+  ```js
+  // Reorder and maybe separate
+  ```
+  ### Used Git for source control following an Agile methodology.
+
 
 # Notes
 
